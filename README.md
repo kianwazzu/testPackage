@@ -6,18 +6,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of testPackage is to create an r package.
+The goal of testPackage is to learn R Package Dev
 
 ## Installation
 
-You can install the released version of testPackage from
-[CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("testPackage")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+Installation:
 
 ``` r
 # install.packages("devtools")
@@ -26,7 +19,7 @@ devtools::install_github("kianwazzu/testPackage")
 
 ## Example
 
-This is a basic example which shows you how to see a dog:
+This is how you can see a dog
 
 ``` r
 library(testPackage)

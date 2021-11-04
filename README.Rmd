@@ -41,7 +41,7 @@ This is a basic example which shows you how to see a dog:
 
 ```{r example}
 library(testPackage)
-get_dog_picture()
+see_a_dog()
 ```
 
 

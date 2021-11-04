@@ -30,7 +30,7 @@ This is a basic example which shows you how to see a dog:
 
 ``` r
 library(testPackage)
-get_dog_picture()
+see_a_dog()
 ```
 
 <img src="man/figures/README-example-1.png" width="100%" />

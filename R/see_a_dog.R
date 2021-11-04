@@ -1,5 +1,5 @@
-#get dog http
-#' Get dog picture
+
+#' see a dog
 #'
 #' Get a random picture of a dog and display it
 #'
@@ -8,9 +8,9 @@
 #' @export
 #'
 #' @examples
-#' get_dog_picture()
+#' see_a_dog()
 #'
-get_dog_picture <- function(){
+see_a_dog <- function(){
 response <- httr::GET("https://dog.ceo/api/breeds/image/random")
 if(httr::status_code(response) == 200){
   response <- httr::content(response)

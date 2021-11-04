@@ -1,5 +1,5 @@
 Package: testPackage
-Title: Test's Kian's R Package-Making Skills
+Title: Tests Kian's R Package-Making Skills
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Kian",
@@ -19,3 +19,5 @@ Config/testthat/edition: 3
 Imports: 
     imager,
     httr
+URL: https://github.com/kianwazzu/testPackage
+BugReports: https://github.com/kianwazzu/testPackage/issues

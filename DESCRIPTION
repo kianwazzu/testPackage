@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "kianankerson@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Does Rnadom things.
+Description: So far, gets a dog picture
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

@@ -26,7 +26,7 @@ devtools::install_github("kianwazzu/testPackage")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example which shows you how to see a dog:
 
 ``` r
 library(testPackage)
